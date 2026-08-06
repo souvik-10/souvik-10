@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Souvik!
+# 👋 Hi, I'm Souvik Das!
 
-🚀 An ambitious Full-Stack & AI Engineer focused on building enterprise-grade, intelligent web applications.
-🧠 Passionate about **Agentic AI, LLMs, and Modern Web Architecture** (React + Python).
+🚀 An ambitious Frontend + Full-Stack & AI Engineer focused on building enterprise-grade, intelligent web applications.
+🧠 Passionate about **Agentic AI, LLMs, and Modern Web Architecture**.
+🧠 Driven to continuously learn, solve real-world problems, and build impactful, user-focused solutions.
 🔧 Always exploring new technologies to build scalable and beautiful systems.
 🤝 Open to collaboration, complex problem-solving, and contributing to impactful projects.
 ✨ **Fun Fact:** I don't just build apps, I build autonomous systems that think!
@@ -10,6 +11,7 @@
 
 ## 🚀 Current Focus
 
+- Building scalable web applications using **React.js**, **TypeScript**, **Node.js**, **MongoDB**. Skilled in **REST APIs**, **authentication**.
 - Building enterprise AI workflows with **LangGraph** & **LLaMA**
 - Architecting high-performance Full-Stack apps with **React**, **TypeScript**, and **FastAPI**
 - Mastering relational databases and vector search (**PostgreSQL**, **ChromaDB**)
@@ -19,8 +21,8 @@
 
 ## 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/) 
-*(Don't forget to update this link!)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souvik-das-8082s/) 
+
 
 ---
 
