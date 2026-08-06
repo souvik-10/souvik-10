@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Souvik Das!
 
-🚀 An ambitious Frontend + Full-Stack & AI Engineer focused on building enterprise-grade, intelligent web applications.
-🧠 Passionate about **Agentic AI, LLMs, and Modern Web Architecture**.
-🧠 Driven to continuously learn, solve real-world problems, and build impactful, user-focused solutions.
-🔧 Always exploring new technologies to build scalable and beautiful systems.
-🤝 Open to collaboration, complex problem-solving, and contributing to impactful projects.
-✨ **Fun Fact:** I don't just build apps, I build autonomous systems that think!
+🚀 An ambitious Frontend + Full-Stack & AI Engineer focused on building enterprise-grade, intelligent web applications.<br>
+🧠 Passionate about **Agentic AI, LLMs, and Modern Web Architecture**.<br>
+🧠 Driven to continuously learn, solve real-world problems, and build impactful, user-focused solutions.<br>
+🔧 Always exploring new technologies to build scalable and beautiful systems.<br>
+🤝 Open to collaboration, complex problem-solving, and contributing to impactful projects.<br>
+✨ **Fun Fact:** I don't just build apps, I build autonomous systems that think!<br>
 
 ---
 
